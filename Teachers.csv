@@ -1,0 +1,62 @@
+SR#1,Names,Designation,Domain1,Domain2,Req_CGPA,Req Skill1,Req Skill2,Req Skill3
+0,Atif Tahir,Professor,Artificial Intellegence,deep learning,2.7,React js,Materialize,Matlab
+1,Zulfiqar Memon,Assistant Professor,Artificial Intellegence,Computer Engineering,3.8,node Js,Vue js,pandas
+2,Jawwad Shamsi,Assistant Professor,Network Security,Machine Learning,3,Spring Framework,Django,numpy
+3,Ghufran Ahmed,Assistant Professor,computer vision,Machine Learning,2.8,SAAS,Materialize,TensorFlow
+4,Suffian Hamed,Professor,Web development,deep learning,2,SAAS,Flask,Matlab
+5,Mshahzed,Professor,Mobile Application Development,Natural Processing Language NLP,3.5,SAAS,UIkit,Express
+6,Muhammad Nouman,Assistant Professor,Web development,Computer Engineering,3.33,Spring Framework,Vue js,Matlab
+7,Hassan Jamil,Professor,internet of things,Information Systems,2.7,Spring Framework,UIkit,Express
+8,Nadeem Kafi,Professor,Web development,Information Science,2.5,React js,ASP.NET,pandas
+9,Farrukh Hassan,Assistant Professor,computer vision,Information Systems,2.5,Spring Framework,Vue js,pytorch
+10,Fahad Sherwani,Assistant Professor,Network Security,deep learning,2.5,Spring Framework,Vue js,Matlab
+11,Aqsa Aslam,Professor,computer vision,Cyber Security,2,Angular,React Native,pandas
+12,Safia,Professor,Network Security,Cyber Security,2.8,SAAS,Flask,openCv
+13,Nida Munawar,Assistant Professor,Web development,deep learning,3.5,Spring Framework,Materialize,Express
+14,Rizwan Qureshi,Assistant Professor,Network Security,Information Technology (IT),2.8,Ajax,Vue js,openCv
+15,Romasha Khurshid,Professor,Mobile Application Development,Machine Learning,3.5,Ajax,Vue js,TensorFlow
+16,Anam Qureshi,Professor,Artificial Intellegence,Machine Learning,3.8,React js,ASP.NET,Express
+17,Sandia Kumari,Professor,Data bases,Information Technology (IT),2.8,Angular,Flask,TensorFlow
+18,Shahar Bano,Assistant Professor,internet of things,deep learning,2.7,Ajax,Django,TensorFlow
+19,Shoaib Rauf,Assistant Professor,Web development,Information Systems,2.7,flutter,laravel,pytorch
+20,Sobia Iftikhar,Assistant Professor,Mobile Application Development,Information Systems,2,node Js,React Native,openCv
+21,Farah Sadia,Assistant Professor,Artificial Intellegence,Information Systems,2.7,Angular,ajax,Matlab
+22,Talha Khan,Assistant Professor,Network Security,Cyber Security,3.5,.NET,Vue js,pytorch
+23,Tania Iram,Assistant Professor,computer vision,Computer Science,2.5,node Js,Flask,AWS
+24,Zain Hassan,Assistant Professor,Mobile Application Development,deep learning,3.8,Spring Framework,laravel,TensorFlow
+25,Nausheen Shoaib,Professor,Mobile Application Development,Machine Learning,2.7,Angular,Django,TensorFlow
+26,Anaum Hamid,Assistant Professor,Artificial Intellegence,Natural Processing Language NLP,2.8,Ajax,laravel,openCv
+27,Basit Jasani,Professor,Mobile Application Development,deep learning,2,Spring Framework,ASP.NET,pytorch
+28,Bakhtawer Abbasi,Assistant Professor,Network Security,Computer Science,3,Django,ASP.NET,Matlab
+29,Javeria Farooq,Professor,Web development,Computer Engineering,3.33,.NET,UIkit,pytorch
+30,Atiya Jokhio,Assistant Professor,Web development,Information Technology (IT),3.33,Bootstrap,Vue js,Express
+31,M Danish,Professor,Web development,Computer Engineering,2.5,Angular,laravel,numpy
+32,Msohail Afzal,Professor,Network Security,Information Technology (IT),2,flutter,Flask,AWS
+33,Musawar Ali,Assistant Professor,virtual Reality,Natural Processing Language NLP,3.8,node Js,Vue js,openCv
+34,M Fahim,Professor,internet of things,Information Science,3.33,React js,Flask,openCv
+35,Aqsa Zahid,Assistant Professor,Mobile Application Development,Computer Science,3,flutter,laravel,numpy
+36,Mubashra Fayyaz,Assistant Professor,internet of things,Information Systems,2,Bootstrap,JQuery,Matlab
+37,Sumaiyah,Assistant Professor,Data bases,Computer Engineering,3.5,Spring Framework,Vue js,Express
+38,Hamza Ahmed,Professor,Web development,Information Systems,2.8,React js,laravel,numpy
+39,Fizza Aqeel,Professor,Web development,Computer Science,3.5,Django,ASP.NET,AWS
+40,Abeer Gauher,Professor,Mobile Application Development,Machine Learning,3.8,flutter,laravel,pandas
+41,Muhammad Rafi,Assistant Professor,Data science,Computer Science,2.5,flutter,ajax,numpy
+42,Syed Aliraza,Professor,Network Security,Information Technology (IT),3.33,SAAS,Vue js,TensorFlow
+43,Behraj Khan,Professor,Data bases,Information Systems,3.5,React js,Materialize,Express
+44,Saeeda Kanwal,Professor,computer vision,Cyber Security,2.7,Django,UIkit,TensorFlow
+45,Zeshan Khan,Professor,Data science,Cyber Security,3.8,Angular,Flask,Matlab
+46,Kariz Kamal,Assistant Professor,Data bases,Computer Engineering,2.7,Bootstrap,ajax,Matlab
+47,Nimra Iqbal,Professor,Artificial Intellegence,Information Technology (IT),2,Angular,Vue js,numpy
+48,Fahad Samad,Professor,Mobile Application Development,Computer Engineering,2.8,Spring Framework,UIkit,pandas
+49,Shahbaz Siddiqui,Professor,Artificial Intellegence,Natural Processing Language NLP,2.7,Ajax,Vue js,TensorFlow
+50,Abdullah Zarshaid,Assistant Professor,Data science,Information Science,3.8,Django,laravel,Matlab
+51,Shoaib Raza,Professor,Mobile Application Development,Information Systems,3.33,Angular,Django,pandas
+52,Amin Sadiq,Professor,Artificial Intellegence,Computer Science,3.8,React js,ASP.NET,Express
+53,Rabia Ansari,Professor,Artificial Intellegence,Information Systems,2.5,React js,React Native,pandas
+54,Abdulaziz,Professor,Mobile Application Development,Computer Engineering,3.33,SAAS,Flask,Matlab
+55,Abdulrahman,Professor,Web development,Computer Engineering,2.7,React js,Vue js,pandas
+56,Rauf Malick,Assistant Professor,Data science,Information Science,2.8,React js,Vue js,Express
+57,Ubaid Aftab,Professor,computer vision,deep learning,2,Angular,Vue js,AWS
+58,Rubab Jaffar,Professor,virtual Reality,Computer Science,3,.NET,Materialize,pandas
+59,Ali Fatmi,Assistant Professor,internet of things,Machine Learning,2.8,Ajax,UIkit,Matlab
+60,Muhammad Nadeem,Professor,computer vision,Computer Engineering,2,node Js,JQuery,TensorFlow
